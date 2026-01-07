@@ -1,0 +1,113 @@
+/* css styles */
+/* --- Layout Grid --- */
+body {
+  display: grid;
+  grid-template-columns: 260px 1fr; /* left column + main content */
+  gap: 2rem;
+}
+
+/* --- Left Sidebar --- */
+.left-profile {
+  position: fixed;
+  top: 140px;              /* below navbar */
+  left: 20px;
+  width: 220px;
+  text-align: center;
+}
+
+.left-profile img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #444;
+}
+
+.left-profile h2 {
+  margin-top: 15px;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+/* --- Wider main column --- */
+main.content {
+  max-width: 900px !important; /* wider text area */
+}
+
+/* Prevent overlap on small screens */
+@media (max-width: 900px) {
+  body {
+    display: block;
+  }
+  .left-profile {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+}
+
+body.quarto-dark main#quarto-document-content .oak-hills-post {
+    background-color: #2a2a2a !important; /* dark background */
+    color: #f0f0f0; /* light text for contrast */
+}
+
+body.quarto-light main#quarto-document-content .oak-hills-post {
+    background-color: #f9f0e3 !important; /* light background */
+    color: #000000;
+}
+
+.oak-hills-post {
+  position: relative;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 3rem;
+  background: rgba(20, 20, 20, 0.85);
+  border-radius: 14px;
+  z-index: 1;
+}
+
+/* Background image */
+.oak-hills-post::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: url("images/oak_hills.jpg");
+  background-size: cover;
+  background-position: center;
+  opacity: 0.25;
+  z-index: -1;
+}
+
+body.quarto-dark main#quarto-document-content .beast-belief-post {
+    background-color: #2a2a2a !important; /* dark background */
+    color: #f0f0f0; /* light text for contrast */
+}
+
+body.quarto-light main#quarto-document-content .beast-belief-post {
+    background-color: #f9f0e3 !important; /* light background */
+    color: #000000;
+}
+
+.beast-belief-post {
+  position: relative;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 3rem;
+  background: rgba(20, 20, 20, 0.85);
+  border-radius: 14px;
+  z-index: 1;
+}
+
+/* Background image */
+.beast-belief-post::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: url("images/Beasts-Beliefs.jpg");
+  background-size: cover;
+  background-position: center;
+  opacity: 0.25;
+  z-index: -1;
+}
+

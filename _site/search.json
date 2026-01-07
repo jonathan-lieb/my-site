@@ -14,97 +14,6 @@
     "text": "Jonathan Lieb\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeasts and Beliefs Leader’s Guide\n\n\n\n\n\n\n\n\nJul 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMissouri’s 10 Most Difficult Golf Courses\n\n\n\n\n\n\n\n\nJun 17, 2025\n\n\nJonathan Lieb\n\n\n\n\n\n\n\n\n\n\n\n\nBeasts and Beliefs Bible Study\n\n\n\n\n\n\n\n\nMay 29, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/2025-01-01-welcome-post.html",
-    "href": "posts/2025-01-01-welcome-post.html",
-    "title": "Welcome to My Blog",
-    "section": "",
-    "text": "This is my first post on my new Quarto-powered website!\nI’ll be sharing projects, simulations, and ideas related to:\n\nR programming\n\ntime series\n\nmodeling\n\nsports analytics\n\ndata visualization\n\nMore posts coming soon."
-  },
-  {
-    "objectID": "about.html#interests",
-    "href": "about.html#interests",
-    "title": "About",
-    "section": "Interests",
-    "text": "Interests\n\nSports Analytics\n\nPredictive Modeling\n\nTime Series\n\nBayesian Modeling"
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\nYou can reach me at:\n\nEmail: jonathantlieb@gmail.com\n\nGitHub: https://github.com/jonathan-lieb"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Jonathan Lieb\n\n\n\nWelcome\nUse this site to get to know me a little bit! I hope you enjoy it."
-  },
-  {
-    "objectID": "posts/2025-02-10-second-post.html",
-    "href": "posts/2025-02-10-second-post.html",
-    "title": "A Quick Simulation Example",
-    "section": "",
-    "text": "I ran a small simulation to show how sample size affects estimation error for the mean.\n\nset.seed(1)\nn &lt;- 50\nx &lt;- rnorm(n)\nmean(x)\n\n[1] 0.1004483"
-  },
-  {
-    "objectID": "publications.html#section",
-    "href": "publications.html#section",
-    "title": "Publications",
-    "section": "2025",
-    "text": "2025\nIntroductory Survival Analysis Using American Ninja Warrior Data\n- Lieb, J., & Sturdivant, R. X. (2025, August 24). American Ninja Warrior - Kaplan Meier. “The SCORE Network.” https://doi.org/10.17605/OSF.IO/RZ42K\nInteractive Decision Errors Module\n- Lieb, J. (2025, August 19). MLS - Types of Decision Making. “The SCORE Network.” https://doi.org/10.17605/OSF.IO/92VSD\nPGA Scoring at the Master’s by Golfer’s Tour\n- Lieb, J. (2025, August 11). PGA - Scoring Average Confidence Intervals. “The SCORE Network.” https://doi.org/10.17605/OSF.IO/QFA2S\n- Lieb, J. (2025, August 11). PGA - Scoring Average Confidence Intervals (No R). “The SCORE Network.” https://doi.org/10.17605/OSF.IO/CN57A\nIntroductory Time Series Analysis using MLB Injury Data\n- Lieb, J. (2025, January 21). MLB Injuries - Introductory Time Series Analysis. “The SCORE Network,” https://doi.org/10.17605/OSF.IO/MQGYT"
-  },
-  {
-    "objectID": "publications.html#working-papers",
-    "href": "publications.html#working-papers",
-    "title": "Publications",
-    "section": "Working Papers",
-    "text": "Working Papers\n\nPredicting Outcomes in Competitive Sports Using Bayesian Updating\n\nAn R Package for Tracking Game-Level Statistics"
-  },
-  {
-    "objectID": "posts/2025-05-29-beasts-beliefs-post.html",
-    "href": "posts/2025-05-29-beasts-beliefs-post.html",
-    "title": "Beasts and Beliefs Bible Study",
-    "section": "",
-    "text": "The Beasts and Beliefs Bible Study is a 7 week series covering stories about prominent animals in the Bible and how God uses those animals to teach us important lessons about Himself and our relationship with Him. The study covers the serpent, pigs, donkeys, bears, lions, fish, and lambs. Obviously, there are many more animals in the Bible, but these were chosen because they can each be used to teach a unique lesson and many have multiple stories associated with them that help tie parts of the Bible together.\n\n\n\nThe Beasts and Beliefs Bible Study was originally designed for high school or college-aged youth. The study centers around a series of questions that are intended to promote active participation in the study. With that said, due to the interactive nature of the questions and a variety of open-ended questions, the study can be adapted for any age group from middle school on up. The study is designed to be used primarily in smaller group setting of between 4-25 people.\n\n\n\nThe Beasts and Beliefs Bible study is designed for each lesson to take approximately 40-60 minutes, depending on the amount of discussion and the size of the group. A downloadable PDF of the study is available at the bottom of this page that includes a cover page and 7 weeks of handouts. A leader’s guide will available soon for download that will include ideas for opening “brainstorm” questions, answers to most questions, and suggestions for closing prayer.\nDownload Beasts and Beliefs Bible Study"
-  },
-  {
-    "objectID": "posts/2025-05-29-beasts-beliefs-post.html#what-is-it",
-    "href": "posts/2025-05-29-beasts-beliefs-post.html#what-is-it",
-    "title": "Beasts and Beliefs Bible Study",
-    "section": "",
-    "text": "The Beasts and Beliefs Bible Study is a 7 week series covering stories about prominent animals in the Bible and how God uses those animals to teach us important lessons about Himself and our relationship with Him. The study covers the serpent, pigs, donkeys, bears, lions, fish, and lambs. Obviously, there are many more animals in the Bible, but these were chosen because they can each be used to teach a unique lesson and many have multiple stories associated with them that help tie parts of the Bible together."
-  },
-  {
-    "objectID": "posts/2025-05-29-beasts-beliefs-post.html#is-it-for-me",
-    "href": "posts/2025-05-29-beasts-beliefs-post.html#is-it-for-me",
-    "title": "Beasts and Beliefs Bible Study",
-    "section": "",
-    "text": "The Beasts and Beliefs Bible Study was originally designed for high school or college-aged youth. The study centers around a series of questions that are intended to promote active participation in the study. With that said, due to the interactive nature of the questions and a variety of open-ended questions, the study can be adapted for any age group from middle school on up. The study is designed to be used primarily in smaller group setting of between 4-25 people."
-  },
-  {
-    "objectID": "posts/2025-05-29-beasts-beliefs-post.html#what-is-the-format",
-    "href": "posts/2025-05-29-beasts-beliefs-post.html#what-is-the-format",
-    "title": "Beasts and Beliefs Bible Study",
-    "section": "",
-    "text": "The Beasts and Beliefs Bible study is designed for each lesson to take approximately 40-60 minutes, depending on the amount of discussion and the size of the group. A downloadable PDF of the study is available at the bottom of this page that includes a cover page and 7 weeks of handouts. A leader’s guide will available soon for download that will include ideas for opening “brainstorm” questions, answers to most questions, and suggestions for closing prayer.\nDownload Beasts and Beliefs Bible Study"
-  },
-  {
-    "objectID": "posts/2025-07-20-beasts-leader-post.html",
-    "href": "posts/2025-07-20-beasts-leader-post.html",
-    "title": "Beasts and Beliefs Leader’s Guide",
-    "section": "",
-    "text": "The Beasts and Beliefs Bible Study Leader’s Guide is designed to help leaders facilitate the study effectively. It includes:\n- Opening Brainstorm Questions: Suggested questions to kick off each session and engage participants.\n- Answers to Most Questions: Guidance on how to answer the study questions, ensuring leaders can provide accurate and thoughtful responses.\n- Closing Prayer Suggestions: Ideas for concluding each session with prayer, fostering a reflective and spiritual atmosphere.\nThe Leader’s Guide is intended to allow any leader, regardless of their experience level, to facilitate the study with confidence. It provides a structured approach to each session while allowing for flexibility based on the group’s dynamics. Each session conveniently fits on one page (front and back), just like the participant handouts, making it easy to follow along and keep the study organized.\nDownload Beasts and Beliefs Leader’s Guide"
-  },
-  {
-    "objectID": "posts/2025-07-20-beasts-leader-post.html#whats-in-the-leaders-guide",
-    "href": "posts/2025-07-20-beasts-leader-post.html#whats-in-the-leaders-guide",
-    "title": "Beasts and Beliefs Leader’s Guide",
-    "section": "",
-    "text": "The Beasts and Beliefs Bible Study Leader’s Guide is designed to help leaders facilitate the study effectively. It includes:\n- Opening Brainstorm Questions: Suggested questions to kick off each session and engage participants.\n- Answers to Most Questions: Guidance on how to answer the study questions, ensuring leaders can provide accurate and thoughtful responses.\n- Closing Prayer Suggestions: Ideas for concluding each session with prayer, fostering a reflective and spiritual atmosphere.\nThe Leader’s Guide is intended to allow any leader, regardless of their experience level, to facilitate the study with confidence. It provides a structured approach to each session while allowing for flexibility based on the group’s dynamics. Each session conveniently fits on one page (front and back), just like the participant handouts, making it easy to follow along and keep the study organized.\nDownload Beasts and Beliefs Leader’s Guide"
-  },
-  {
     "objectID": "posts/2025-06-17-golf-post.html",
     "href": "posts/2025-06-17-golf-post.html",
     "title": "Missouri’s 10 Most Difficult Golf Courses",
@@ -187,5 +96,75 @@
     "title": "Missouri’s 10 Most Difficult Golf Courses",
     "section": "",
     "text": "Not to be outdone by its neighbor Fox Run, Aberdeen Golf Club is a par 72 course with a course rating of 75.7. It is the 7th longest course in Missouri playing 7332 yards. The good news for people who think they’re better than they actually are is that this course is not as difficult as many of the others on the list for bogey golfers (ranking 31st on Bogey Rating to par). This difference is due largely to the links style of the course."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Jonathan Lieb\n\n\n\nWelcome\nUse this site to get to know me a little bit! I hope you enjoy it."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "Interests",
+    "text": "Interests\n\nSports Analytics\n\nPredictive Modeling\n\nTime Series\n\nBayesian Modeling"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nYou can reach me at:\n\nEmail: jonathantlieb@gmail.com\n\nGitHub: https://github.com/jonathan-lieb"
+  },
+  {
+    "objectID": "posts/2025-05-29-beasts-beliefs-post.html",
+    "href": "posts/2025-05-29-beasts-beliefs-post.html",
+    "title": "Beasts and Beliefs Bible Study",
+    "section": "",
+    "text": "The Beasts and Beliefs Bible Study is a 7 week series covering stories about prominent animals in the Bible and how God uses those animals to teach us important lessons about Himself and our relationship with Him. The study covers the serpent, pigs, donkeys, bears, lions, fish, and lambs. Obviously, there are many more animals in the Bible, but these were chosen because they can each be used to teach a unique lesson and many have multiple stories associated with them that help tie parts of the Bible together.\n\n\n\nThe Beasts and Beliefs Bible Study was originally designed for high school or college-aged youth. The study centers around a series of questions that are intended to promote active participation in the study. With that said, due to the interactive nature of the questions and a variety of open-ended questions, the study can be adapted for any age group from middle school on up. The study is designed to be used primarily in smaller group setting of between 4-25 people.\n\n\n\nThe Beasts and Beliefs Bible study is designed for each lesson to take approximately 40-60 minutes, depending on the amount of discussion and the size of the group. A downloadable PDF of the study is available at the bottom of this page that includes a cover page and 7 weeks of handouts. A leader’s guide will available soon for download that will include ideas for opening “brainstorm” questions, answers to most questions, and suggestions for closing prayer.\nDownload Beasts and Beliefs Bible Study"
+  },
+  {
+    "objectID": "posts/2025-05-29-beasts-beliefs-post.html#what-is-it",
+    "href": "posts/2025-05-29-beasts-beliefs-post.html#what-is-it",
+    "title": "Beasts and Beliefs Bible Study",
+    "section": "",
+    "text": "The Beasts and Beliefs Bible Study is a 7 week series covering stories about prominent animals in the Bible and how God uses those animals to teach us important lessons about Himself and our relationship with Him. The study covers the serpent, pigs, donkeys, bears, lions, fish, and lambs. Obviously, there are many more animals in the Bible, but these were chosen because they can each be used to teach a unique lesson and many have multiple stories associated with them that help tie parts of the Bible together."
+  },
+  {
+    "objectID": "posts/2025-05-29-beasts-beliefs-post.html#is-it-for-me",
+    "href": "posts/2025-05-29-beasts-beliefs-post.html#is-it-for-me",
+    "title": "Beasts and Beliefs Bible Study",
+    "section": "",
+    "text": "The Beasts and Beliefs Bible Study was originally designed for high school or college-aged youth. The study centers around a series of questions that are intended to promote active participation in the study. With that said, due to the interactive nature of the questions and a variety of open-ended questions, the study can be adapted for any age group from middle school on up. The study is designed to be used primarily in smaller group setting of between 4-25 people."
+  },
+  {
+    "objectID": "posts/2025-05-29-beasts-beliefs-post.html#what-is-the-format",
+    "href": "posts/2025-05-29-beasts-beliefs-post.html#what-is-the-format",
+    "title": "Beasts and Beliefs Bible Study",
+    "section": "",
+    "text": "The Beasts and Beliefs Bible study is designed for each lesson to take approximately 40-60 minutes, depending on the amount of discussion and the size of the group. A downloadable PDF of the study is available at the bottom of this page that includes a cover page and 7 weeks of handouts. A leader’s guide will available soon for download that will include ideas for opening “brainstorm” questions, answers to most questions, and suggestions for closing prayer.\nDownload Beasts and Beliefs Bible Study"
+  },
+  {
+    "objectID": "posts/2025-07-20-beasts-leader-post.html",
+    "href": "posts/2025-07-20-beasts-leader-post.html",
+    "title": "Beasts and Beliefs Leader’s Guide",
+    "section": "",
+    "text": "The Beasts and Beliefs Bible Study Leader’s Guide is designed to help leaders facilitate the study effectively. It includes:\n- Opening Brainstorm Questions: Suggested questions to kick off each session and engage participants.\n- Answers to Most Questions: Guidance on how to answer the study questions, ensuring leaders can provide accurate and thoughtful responses.\n- Closing Prayer Suggestions: Ideas for concluding each session with prayer, fostering a reflective and spiritual atmosphere.\nThe Leader’s Guide is intended to allow any leader, regardless of their experience level, to facilitate the study with confidence. It provides a structured approach to each session while allowing for flexibility based on the group’s dynamics. Each session conveniently fits on one page (front and back), just like the participant handouts, making it easy to follow along and keep the study organized.\nDownload Beasts and Beliefs Leader’s Guide"
+  },
+  {
+    "objectID": "posts/2025-07-20-beasts-leader-post.html#whats-in-the-leaders-guide",
+    "href": "posts/2025-07-20-beasts-leader-post.html#whats-in-the-leaders-guide",
+    "title": "Beasts and Beliefs Leader’s Guide",
+    "section": "",
+    "text": "The Beasts and Beliefs Bible Study Leader’s Guide is designed to help leaders facilitate the study effectively. It includes:\n- Opening Brainstorm Questions: Suggested questions to kick off each session and engage participants.\n- Answers to Most Questions: Guidance on how to answer the study questions, ensuring leaders can provide accurate and thoughtful responses.\n- Closing Prayer Suggestions: Ideas for concluding each session with prayer, fostering a reflective and spiritual atmosphere.\nThe Leader’s Guide is intended to allow any leader, regardless of their experience level, to facilitate the study with confidence. It provides a structured approach to each session while allowing for flexibility based on the group’s dynamics. Each session conveniently fits on one page (front and back), just like the participant handouts, making it easy to follow along and keep the study organized.\nDownload Beasts and Beliefs Leader’s Guide"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\nIntroductory Survival Analysis Using American Ninja Warrior Data\n- Lieb, J., & Sturdivant, R. X. (2025, August 24). American Ninja Warrior - Kaplan Meier. “The SCORE Network.” https://doi.org/10.17605/OSF.IO/RZ42K\nInteractive Decision Errors Module\n- Lieb, J. (2025, August 19). MLS - Types of Decision Making. “The SCORE Network.” https://doi.org/10.17605/OSF.IO/92VSD\nPGA Scoring at the Master’s by Golfer’s Tour\n- Lieb, J. (2025, August 11). PGA - Scoring Average Confidence Intervals. “The SCORE Network.” https://doi.org/10.17605/OSF.IO/QFA2S\n- Lieb, J. (2025, August 11). PGA - Scoring Average Confidence Intervals (No R). “The SCORE Network.” https://doi.org/10.17605/OSF.IO/CN57A\nIntroductory Time Series Analysis using MLB Injury Data\n- Lieb, J. (2025, January 21). MLB Injuries - Introductory Time Series Analysis. “The SCORE Network,” https://doi.org/10.17605/OSF.IO/MQGYT"
   }
 ]
