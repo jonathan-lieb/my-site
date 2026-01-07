@@ -1,0 +1,26 @@
+---
+title: "About"
+---
+<div class="left-profile">
+  <img src="images/Jonathan Lieb-2.jpg" alt="Profile photo">
+  <h2>Jonathan Lieb</h2>
+</div>
+
+# About Me
+
+Hi! I’m **Jonathan Lieb**, and I'm a PhD statistics student at Baylor University.
+I enjoy applying simple linear models, time series methods, and machine learning techniques to build models and tackle problems, especially in the world of sports.
+
+## Interests
+
+- Sports Analytics  
+- Predictive Modeling  
+- Time Series  
+- Bayesian Modeling  
+
+## Contact
+
+You can reach me at:
+
+- **Email:** jonathantlieb@gmail.com  
+- **GitHub:** https://github.com/jonathan-lieb  

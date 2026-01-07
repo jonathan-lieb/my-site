@@ -1,0 +1,16 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  # type: default
+---
+
+
+<div class="left-profile">
+  <img src="images/Jonathan Lieb-2.jpg" alt="Profile photo">
+  <h2>Jonathan Lieb</h2>
+</div>
+
+
+

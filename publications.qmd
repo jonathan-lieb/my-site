@@ -1,0 +1,32 @@
+---
+title: "Publications"
+---
+
+
+<div class="left-profile">
+  <img src="images/Jonathan Lieb-2.jpg" alt="Profile photo">
+  <h2>Jonathan Lieb</h2>
+</div>
+
+# SCORE Module Publications
+
+Below are some modules for teaching statistics or data science topics using sports data created for the SCORE Network.
+
+---
+
+## 2025
+
+[**Introductory Survival Analysis Using American Ninja Warrior Data**](https://modules.scorenetwork.org/obstacle_competitions/american_ninja_warrior/)  
+- Lieb, J., & Sturdivant, R. X. (2025, August 24). American Ninja Warrior - Kaplan Meier. "The SCORE Network." https://doi.org/10.17605/OSF.IO/RZ42K
+
+[**Interactive Decision Errors Module**](https://modules.scorenetwork.org/soccer/mls_decision_errors/)  
+- Lieb, J. (2025, August 19). MLS - Types of Decision Making. "The SCORE Network." https://doi.org/10.17605/OSF.IO/92VSD
+
+[**PGA Scoring at the Master's by Golfer's Tour**](https://modules.scorenetwork.org/golf/pga_masters/)  
+- Lieb, J. (2025, August 11). PGA - Scoring Average Confidence Intervals. "The SCORE Network." https://doi.org/10.17605/OSF.IO/QFA2S  
+- Lieb, J. (2025, August 11). PGA - Scoring Average Confidence Intervals (No R). "The SCORE Network." https://doi.org/10.17605/OSF.IO/CN57A
+
+[**Introductory Time Series Analysis using MLB Injury Data**](https://modules.scorenetwork.org/baseball/mlb_injuries/)  
+- Lieb, J. (2025, January 21). MLB Injuries - Introductory Time Series Analysis. "The SCORE Network," https://doi.org/10.17605/OSF.IO/MQGYT
+
+

@@ -1,0 +1,26 @@
+---
+title: "Shiny Apps"
+---
+
+<div class="left-profile">
+  <img src="images/Jonathan Lieb-2.jpg" alt="Profile photo">
+  <h2>Jonathan Lieb</h2>
+</div>
+
+# For Fun Apps
+
+Below are interactive apps I've built.
+
+- [**MSHSAA Boys Basketball Rankings**](https://jtlieb.shinyapps.io/MSHSAA_boys_rankings/)
+
+![](images/mshsaa_boys_app.png)
+
+- [**MSHSAA Girls Basketball Rankings**](https://jtlieb.shinyapps.io/mshsaa_girls_rankings/)
+
+![](images/mshsaa_girls_app.png)
+  
+- [**Baylor Baseball 2022 Lineup Simulator**](https://jtlieb.shinyapps.io/sim_baylor_lineup/)
+
+![](images/baylor_sim_app.png)
+
+I hope you enjoy!

@@ -1,0 +1,12 @@
+---
+title: "Home"
+---
+
+<div class="left-profile">
+  <img src="images/Jonathan Lieb-2.jpg" alt="Profile photo">
+  <h2>Jonathan Lieb</h2>
+</div>
+
+# Welcome
+
+Use this site to get to know me a little bit! I hope you enjoy it. 
