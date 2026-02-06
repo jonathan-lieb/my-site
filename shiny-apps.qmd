@@ -5,6 +5,10 @@ title: "Shiny Apps"
 <div class="left-profile">
   <img src="images/Jonathan Lieb-2.jpg" alt="Profile photo">
   <h2>Jonathan Lieb</h2>
+  <a>jonathantlieb@gmail.com</a>
+  <a href="https://www.linkedin.com/in/jonathan-lieb-699b06246/">
+        LinkedIn
+  </a>
 </div>
 
 # For Fun Apps
