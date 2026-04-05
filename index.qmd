@@ -11,6 +11,6 @@ title: "Home"
   </a>
 </div>
 
-# Welcome
+# Who am I?
 
-Use this site to get to know me a little bit! I hope you enjoy it. 
+Graduate Statistics student at Baylor University, follower of Jesus Christ, and sports analytics fanatic.
