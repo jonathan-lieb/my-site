@@ -105,6 +105,13 @@
     "text": "Jonathan Lieb\n\njonathantlieb@gmail.com  LinkedIn \n\n\nWho am I?\nGraduate Statistics student at Baylor University, follower of Jesus Christ, and sports analytics fanatic."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "jonathantlieb@gmail.com  LinkedIn"
+  },
+  {
     "objectID": "about.html#interests",
     "href": "about.html#interests",
     "title": "About",
@@ -161,24 +168,17 @@
     "text": "The Beasts and Beliefs Bible Study Leader’s Guide is designed to help leaders facilitate the study effectively. It includes:\n- Opening Brainstorm Questions: Suggested questions to kick off each session and engage participants.\n- Answers to Most Questions: Guidance on how to answer the study questions, ensuring leaders can provide accurate and thoughtful responses.\n- Closing Prayer Suggestions: Ideas for concluding each session with prayer, fostering a reflective and spiritual atmosphere.\nThe Leader’s Guide is intended to allow any leader, regardless of their experience level, to facilitate the study with confidence. It provides a structured approach to each session while allowing for flexibility based on the group’s dynamics. Each session conveniently fits on one page (front and back), just like the participant handouts, making it easy to follow along and keep the study organized.\nDownload Beasts and Beliefs Leader’s Guide"
   },
   {
-    "objectID": "publications.html#section",
-    "href": "publications.html#section",
-    "title": "Publications",
-    "section": "2025",
-    "text": "2025\nIntroductory Survival Analysis Using American Ninja Warrior Data\n- Lieb, J., & Sturdivant, R. X. (2025, August 24). American Ninja Warrior - Kaplan Meier. “The SCORE Network.” https://doi.org/10.17605/OSF.IO/RZ42K\nInteractive Decision Errors Module\n- Lieb, J. (2025, August 19). MLS - Types of Decision Making. “The SCORE Network.” https://doi.org/10.17605/OSF.IO/92VSD\nPGA Scoring at the Master’s by Golfer’s Tour\n- Lieb, J. (2025, August 11). PGA - Scoring Average Confidence Intervals. “The SCORE Network.” https://doi.org/10.17605/OSF.IO/QFA2S\n- Lieb, J. (2025, August 11). PGA - Scoring Average Confidence Intervals (No R). “The SCORE Network.” https://doi.org/10.17605/OSF.IO/CN57A\nIntroductory Time Series Analysis using MLB Injury Data\n- Lieb, J. (2025, January 21). MLB Injuries - Introductory Time Series Analysis. “The SCORE Network,” https://doi.org/10.17605/OSF.IO/MQGYT"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "jonathantlieb@gmail.com  LinkedIn"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
     "text": "jonathantlieb@gmail.com  LinkedIn"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\nIntroductory Survival Analysis Using American Ninja Warrior Data\n- Lieb, J., & Sturdivant, R. X. (2025, August 24). American Ninja Warrior - Kaplan Meier. “The SCORE Network.” https://doi.org/10.17605/OSF.IO/RZ42K\nInteractive Decision Errors Module\n- Lieb, J. (2025, August 19). MLS - Types of Decision Making. “The SCORE Network.” https://doi.org/10.17605/OSF.IO/92VSD\nPGA Scoring at the Master’s by Golfer’s Tour\n- Lieb, J. (2025, August 11). PGA - Scoring Average Confidence Intervals. “The SCORE Network.” https://doi.org/10.17605/OSF.IO/QFA2S\n- Lieb, J. (2025, August 11). PGA - Scoring Average Confidence Intervals (No R). “The SCORE Network.” https://doi.org/10.17605/OSF.IO/CN57A\nIntroductory Time Series Analysis using MLB Injury Data\n- Lieb, J. (2025, January 21). MLB Injuries - Introductory Time Series Analysis. “The SCORE Network,” https://doi.org/10.17605/OSF.IO/MQGYT"
   }
 ]
